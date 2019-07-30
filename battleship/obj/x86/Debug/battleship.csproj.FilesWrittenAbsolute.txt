@@ -1,0 +1,8 @@
+/home/chrys/Projekte/battleship/battleship/battleship/bin/Debug/battleship.exe.mdb
+/home/chrys/Projekte/battleship/battleship/battleship/bin/Debug/battleship.exe
+/home/chrys/Projekte/battleship/battleship/battleship/obj/x86/Debug/battleship.exe
+/home/chrys/Projekte/battleship/battleship/battleship/obj/x86/Debug/battleship.exe.mdb
+/home/chrys/Projekte/battleship-enu/battleship/bin/Debug/battleship.exe.mdb
+/home/chrys/Projekte/battleship-enu/battleship/bin/Debug/battleship.exe
+/home/chrys/Projekte/battleship-enu/battleship/obj/x86/Debug/battleship.exe
+/home/chrys/Projekte/battleship-enu/battleship/obj/x86/Debug/battleship.exe.mdb
